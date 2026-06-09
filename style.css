@@ -1,7 +1,7 @@
 .container {
-    background: #f8f9fa; /* Modern, soft off-white/light gray */
-    padding: 25px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Smoother, more subtle shadow */
+    background: hwb(242 23% 64%); /* Modern, soft off-white/light gray */
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px #00000014; /* Smoother, more subtle shadow */
     width: 350px;
 }
